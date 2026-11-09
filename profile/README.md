@@ -4,7 +4,7 @@
 
 [![Open App](https://img.shields.io/badge/Launch-Chained%20Timers-brightgreen?style=for-the-badge&logo=googlechrome)](https://chainedtimers.github.io/)
 [![Google Play](https://img.shields.io/badge/Google%20Play-Android%20Beta-blue?style=for-the-badge&logo=googleplay)](https://play.google.com/apps/testing/com.github.chainedtimers)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-darkblue?style=for-the-badge&logo=github)](https://github.com/chainedtimers/chainedtimers.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-darkblue?style=for-the-badge&logo=github)](https://github.com/chainedtimers/chained-timers)
 
 ---
 
@@ -22,7 +22,7 @@ Chained Timers chains countdown segments together sequentially, vibrating and an
 ### 🔗 Quick Links
 
 - **Web Application:** [chainedtimers.github.io](https://chainedtimers.github.io/)
-- **Project Repository & APK Releases:** [chainedtimers/chainedtimers.github.io](https://github.com/chainedtimers/chainedtimers.github.io)
+- **Project Repository & APK Releases:** [chainedtimers/chained-timers](https://github.com/chainedtimers/chained-timers)
 
 ---
 
